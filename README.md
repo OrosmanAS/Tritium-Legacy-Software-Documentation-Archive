@@ -49,7 +49,7 @@ Documentation, firmware, and software for the Tritium CAN–Ethernet bridge.
 **Includes:** User Manual (PDF), Datasheet (PDF), Ethernet Interface Documentation (PDF), `IM_bridge_1_04.tab` firmware file, CAN Bridge Config, and CAN Logger.
 
 > [!WARNING]
-> It is unclear whether modifications were made to the included firmware. Verify carefully before flashing to a DRI82, DRI86, or related device.
+> It is unclear whether modifications were made to the included firmware. Verify carefully before flashing.
 
 ### CAN Bridge Config
 
