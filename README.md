@@ -53,7 +53,7 @@ Documentation, firmware, and software for the Tritium CAN–Ethernet bridge.
 
 ### CAN Bridge Config
 
-Configures and manages the Tritium CAN–Ethernet bridge. Features include viewing bridge and local interface IPs, setting a static IP, checking protocol version, configuring the virtual bus number, changing CAN bitrate (e.g. 250 kbps vs. 500 kbps), and flashing new firmware. Bitrate configuration is especially important when MPPTs run at 250 kbps while the driver controller defaults to 500 kbps.
+Configures and manages the Tritium CAN–Ethernet bridge. Features include viewing bridge and local interface IPs, setting a static IP, checking protocol version, configuring the virtual bus number, changing CAN bitrate (e.g. 250 kbps vs. 500 kbps), and flashing new firmware. Bitrate configuration is especially important when MPPTs run at 250 kbps.
 
 ### CAN Logger
 
